@@ -30,8 +30,8 @@ Note: The analysis relies on the [ACLED dataset](https://acleddata.com/). Ensure
 
 ## Contributors
 
-- **Elias Mengesha**
-- **Selamawit Gebretsadik**
+- `Elias Mengesha`
+- `Selamawit Gebretsadik`
 
 ## Contact
 
