@@ -41,4 +41,4 @@ If you have any questions or feedback regarding the Political Violence Analysis 
 - Email: [eliasmengesha2@gmail.com](mailto:eliasmengesha2@gmial.com)
 
 - GitHub: [selamawit](https://github.com/SelamB25)
-- Email: [selamawit@example.com](selamawitb0@gmail.com)
+- Email: [selamawitb0@gmail.com](mailto:selamawitb0@gmail.com)
