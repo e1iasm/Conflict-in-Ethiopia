@@ -1,6 +1,6 @@
-# Analysis of Conflict in Ethiopia
+# Understanding Political Violence in Ethiopia
 
-This repository contains the Jupyter Notebook file (**ethiopia_conflict_analysis.ipynb**) for the comprehensive analysis of political violence in Ethiopia. The project leverages the ACLED dataset, which provides detailed information on conflict events, including actors, event types, locations, and fatalities.
+This repository contains the Jupyter Notebook file (**understanding_political_violence_in_ethiopia.ipynb**) for the comprehensive analysis of political violence in Ethiopia. The project leverages the ACLED dataset, which provides detailed information on conflict events, including actors, event types, locations, and fatalities.
 
 ## Project Overview
 
@@ -12,7 +12,7 @@ This project aims to provide a comprehensive analysis of political violence in E
 
 ## File
 
-- `ethiopia_conflict_analysis.ipynb`: Jupyter Notebook file containing the code and analysis for the Political Violence Analysis in Ethiopia.
+- `understanding_political_violence_in_ethiopia.ipynb`: Jupyter Notebook file containing the code and analysis for the Political Violence Analysis in Ethiopia.
 - `README.md`: This file provides information about the repository and the project.
 
 ## Analysis
@@ -23,7 +23,7 @@ The analysis within this notebook explores various aspects of political violence
 
 To explore the analysis and findings:
 
-1. Open the `ethiopia_conflict_analysis.ipynb` file in a Jupyter Notebook environment.
+1. Open the `understanding_political_violence_in_ethiopia.ipynb` file in a Jupyter Notebook environment.
 2. Follow the code cells and markdown sections to understand the data processing, analysis steps, and conclusions.
 
 Note: The analysis relies on the [ACLED dataset](https://acleddata.com/). Ensure you have access to the required datasets if mentioned in the notebook. Alternatively, you can find the dataset we used for the analysis in this repository.
