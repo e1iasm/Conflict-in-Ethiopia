@@ -11,7 +11,7 @@ This project aims to provide a comprehensive analysis of political violence in E
 **Usage Note:** Users must adhere to ACLED’s Terms of Use, utilizing data responsibly and in good faith. Attribution Policy requires clear acknowledgment of ACLED in any use, specifying the date of access, manipulated data details, and proper citation formats. ACLED encourages responsible academic use but monitors and addresses misuse.
 
 ## File
-
+- `Slide Presentation of the Analysis.pdf`: This is a slide presentation documenting the data analysis process and the findings of the project.
 - `understanding_political_violence_in_ethiopia.ipynb`: Jupyter Notebook file containing the code and analysis for the Political Violence Analysis in Ethiopia.
 - `README.md`: This file provides information about the repository and the project.
 
