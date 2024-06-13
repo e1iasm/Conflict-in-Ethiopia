@@ -37,8 +37,8 @@ Note: The analysis relies on the [ACLED dataset](https://acleddata.com/). Ensure
 
 If you have any questions or feedback regarding the Political Violence Analysis in Ethiopia project, feel free to reach out to the contributors:
 
-- GitHub: [e1iasm](https://github.com/e1iasm)
-- Email: [eliasmengesha2@gmail.com](mailto:eliasmengesha2@gmial.com)
+- Email: [elias.m.berhe@gmial.com](mailto:elias.m.berhe@gmial.com)
+- GitHub: [elias-m-b](https://github.com/elias-m-b)
 
 - GitHub: [selamawit](https://github.com/SelamB25)
 - Email: [selamawitb0@gmail.com](mailto:selamawitb0@gmail.com)
